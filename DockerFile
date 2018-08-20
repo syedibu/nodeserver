@@ -1,0 +1,7 @@
+FROM node:8
+WORKDIR /nodeserver
+COPY package.json /nodeserver
+RUN npm install
+COPY . /nodeserver
+CMD node index.js
+EXPOSE 3031

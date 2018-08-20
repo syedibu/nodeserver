@@ -1,0 +1,25 @@
+{
+    "customers":[
+        {
+            "id":"1",
+            "firstName": "Syed",
+            "lastName": "Ibrahim",
+            "age":28,
+            "email":"syed@gmail.com"
+        },
+        {
+            "id":"2",
+            "firstName": "Tariq",
+            "lastName": "Sulaiman",
+            "age":1,
+            "email":"syed@gmail.com"
+        },
+        {
+            "id":"3",
+            "firstName": "Nilofar",
+            "lastName": "Barveen",
+            "age":21,
+            "email":"nilofarsyed@gmail.com"
+        }
+    ]
+}
